@@ -2,13 +2,6 @@
 
 Welcome to the Netflix Analytics Dashboard project! This repository contains all the necessary files and instructions to build a comprehensive dashboard for analyzing Netflix data. Whether you're a data analyst, a Netflix enthusiast, or just curious about data visualization, this project is for you!
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Data Preparation](#data-preparation)
-- [Dashboard Sections](#dashboard-sections)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview 📋
 The Netflix Analytics Dashboard provides a comprehensive view of Netflix content, including summary views for high-level insights and detailed content records for in-depth analysis. The dashboard is divided into three main sections: Overview, Content Demographics, and Performance Analysis.
